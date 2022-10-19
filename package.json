@@ -71,6 +71,5 @@
     "topgg-autoposter": "^2.0.1",
     "util": "^0.12.4",
     "weather-js": "^2.0.0",
-    "ytdl-core": "^4.9.2"
   }
 }
