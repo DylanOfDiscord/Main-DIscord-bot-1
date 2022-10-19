@@ -70,6 +70,6 @@
     "sourcebin": "^4.2.5",
     "topgg-autoposter": "^2.0.1",
     "util": "^0.12.4",
-    "weather-js": "^2.0.0",
+    "weather-js": "^2.0.0"
   }
 }
