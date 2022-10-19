@@ -1,58 +1,58 @@
 {
     "startLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "shardLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "errorLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "dmLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "voiceLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "serverLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "serverLogs2": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "commandLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "consoleLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "warnLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "voiceErrorLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "creditLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "evalLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     },
     "interactionLogs": {
-        "id": "1032123223392923708",
-        "token": "https://discord.com/api/webhooks/1032123223392923708/57xeyaorAPo5Xuxlty-a20tWBkvaekTgwz2bbJIPhxdt9NALboaY_58tcOZMJgvq2ZlM"
+        "id": "",
+        "token": ""
     }
 }
